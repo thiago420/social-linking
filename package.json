@@ -2,7 +2,7 @@
   "name": "social-linking",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://thiago420.github.io/social-linking",
+  "homepage": "https://thiago420.github.io/social-linking/",
   "type": "module",
   "scripts": {
     "dev": "vite",
