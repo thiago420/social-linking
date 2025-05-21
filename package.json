@@ -1,6 +1,6 @@
 {
   "name": "social-linking",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "homepage": "https://thiago420.github.io/social-linking/",
   "type": "module",
